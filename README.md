@@ -1,2 +1,6 @@
-gdoc-spreadsheet-to-json
-========================
+gspread-to-json
+===============
+
+Exports a Google Spreadsheet to JSON.
+
+Requires gspread, oauth2client.
